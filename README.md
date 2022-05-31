@@ -2,7 +2,8 @@
 
 Basic Twitter clone built with static data that allows users to tweet, like/unlike tweets, and view user profiles. 
 
-https://user-images.githubusercontent.com/91225565/170806114-451a6754-9e4e-47e8-b184-41672a21b166.mov
+
+https://user-images.githubusercontent.com/91225565/171294304-90b648f5-bd42-446b-8592-cef2f1519e98.mov
 
 
 ## Launching the app
